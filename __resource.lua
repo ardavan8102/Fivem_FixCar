@@ -6,5 +6,5 @@ author 'Ardavan81'
 
 description 'Fix & Clean Command For Staff Team'
 
-client_script 'client/client.lua'
-server_script 'server/server.lua'
+client_script 'client.lua'
+server_script 'server.lua'
